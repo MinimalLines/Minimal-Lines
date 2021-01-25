@@ -12,4 +12,4 @@ Features:
 - add tasks to any Account configured in Reminders.app (iCloud, Microsoft Exchange, Google, etc.).  Reminders.app synchronizes your tasks across all your devices
 
 
-[Download on the Mac App Store](http://appstore.com/mac/fasttask)
+[Download on the Mac App Store](http://appstore.com/mac/richardguy/fasttask)
