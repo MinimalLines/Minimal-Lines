@@ -10,3 +10,6 @@ Features:
 - press return to save to Reminders.app and return to your work
 - power-user preferences to automatically launch at login and run in Minimal Mode
 - add tasks to any Account configured in Reminders.app (iCloud, Microsoft Exchange, Google, etc.).  Reminders.app synchronizes your tasks across all your devices
+
+
+[Download on the Mac App Store](http://appstore.com/mac/fasttask)
