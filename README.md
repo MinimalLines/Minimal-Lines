@@ -1,7 +1,7 @@
 # Home
 This is the website for Minimal Lines, developer of MacOS and iOS applications.
 
-## [FastTask for MacOS](./FastTaskMasOC_Overview.md)
+## [FastTask for MacOS](./FastTaskMacOS_Overview.md)
 
 The fastest way to get tasks into Reminders.app on your Mac.  Launch, type, exit.  Go back to what you were doing.
 
