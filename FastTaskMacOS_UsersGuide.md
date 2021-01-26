@@ -1,4 +1,4 @@
-# User’s Guide
+# FastTask for MacOS User’s Guide
 ## Overview
 
 FastTask is designed to be used without the mouse, allowing you to quickly activate the application, enter a new reminder, and go back to your current work.
