@@ -12,6 +12,7 @@ FastTask is designed to be used without the mouse, allowing you to quickly activ
 |ESC|Clear text and hide FastTask|
 
 
+
 ### Entering Tasks
 Use the delimiters below to identify a specific reminder component:
 
@@ -22,6 +23,7 @@ Use the delimiters below to identify a specific reminder component:
 |\##|Notes|Everything after this delimiter is treated as notes|
 |http(s)://|URL|URLs are added to notes in Reminders.app|
 |\<various\>|Remind Me|Enter a date or time and FastTask will add alert in Reminders.app|
+
 
 
 ### Preferences
