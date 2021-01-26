@@ -13,3 +13,5 @@ The fastest way to get tasks into Google Tasks. Launch, type, exit.  Go back to 
 ## MusicBlogDJ
 
 A curated list of music blog posts with songs.
+
+#### [Privacy Notice](./PrivacyNotice.md)
