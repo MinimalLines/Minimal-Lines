@@ -1,4 +1,4 @@
-# Privacy Notice
+# Minimal Lines Privacy Notice
 
 ## Information Collection and Sharing
 
