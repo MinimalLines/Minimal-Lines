@@ -1,5 +1,4 @@
-# Home
-This is the website for Minimal Lines, developer of MacOS and iOS applications.
+# Products
 
 ## [FastTask for MacOS](./FastTaskMacOS_Overview.md)
 
