@@ -4,12 +4,12 @@
 FastTask is designed to be used without the mouse, allowing you to quickly activate the application, enter a new reminder, and go back to your current work.
 
 ### Keyboard Shortcuts
-
 |Shortcut|Command|
 |:--- |:--- |
 |SHIFT-⌘-/|Show menu (preferences, support)|
 |RETURN|Create reminder and hide FastTask|
 |ESC|Clear text and hide FastTask|
+
 
 ### Entering Tasks
 Use the delimiters below to identify a specific reminder component:
@@ -22,8 +22,8 @@ Use the delimiters below to identify a specific reminder component:
 |http(s)://|URL|URLs are added to notes in Reminders.app|
 |\<various\>|Remind Me|Enter a date or time and FastTask will add alert in Reminders.app|
 
-### Preferences
 
+### Preferences
 |Menu Item|Description|Default Setting|
 |:---|:--- |:---|
 |Show Quickstart|Show this guide when FastTask launches|ON by default|
