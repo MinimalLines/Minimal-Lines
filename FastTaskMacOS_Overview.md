@@ -14,3 +14,8 @@ Features:
 <a href="https://appstore.com/mac/richardguy/fasttask">
   <img align="right" src="./Assets/Download_on_the_Mac_App_Store_Badge_US-UK_blk_092917.png" alt="Download on the Mac App Store" width="200"/>
 </a>                              
+
+## [Users's Guide](./FastTaskMacOS_UsersGuide.md)
+
+## [Release Notes](./FastTaskMacOS_ReleaseNotes.md)
+
