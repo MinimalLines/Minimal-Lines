@@ -4,6 +4,7 @@
 FastTask is designed to be used without the mouse, allowing you to quickly activate the application, enter a new reminder, and go back to your current work.
 
 ### Keyboard Shortcuts
+
 |Shortcut|Command|
 |:--- |:--- |
 |SHIFT-⌘-/|Show menu (preferences, support)|
@@ -24,6 +25,7 @@ Use the delimiters below to identify a specific reminder component:
 
 
 ### Preferences
+
 |Menu Item|Description|Default Setting|
 |:---|:--- |:---|
 |Show Quickstart|Show this guide when FastTask launches|ON by default|
